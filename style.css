@@ -193,7 +193,7 @@ img {
 }
 
 
-@media(max-width: 798px) {
+@media(max-width: 100vh) {
     .showcase,
     .showcase header {
         padding: 40px;
